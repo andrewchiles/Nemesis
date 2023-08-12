@@ -1,4 +1,4 @@
- # Named Pip
+# Named Pipe
 Date type: `named_pipe`
 
 ## Overview
